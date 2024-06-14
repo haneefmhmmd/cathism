@@ -1,0 +1,16 @@
+.video-container {
+  max-width: 720px;
+}
+.video-container video {
+  width: 100%;
+}
+
+.page__hero--overlay {
+  background-size: contain;
+}
+
+@media (min-width: 768px) {
+  .page__hero--overlay {
+    background-position: center right;
+  }
+}

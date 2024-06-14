@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "Introduction"
+    url: /docs/introduction
+  - title: "Code"
+    url: /docs/code
+  - title: "Publications"
+    url: /docs/paper
+
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Introduction"
+        url: /docs/introduction
+      - title: "Code"
+        url: /docs/code
+      - title: "Publications"
+        url: /docs/publications
